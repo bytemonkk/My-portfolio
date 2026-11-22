@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="630" viewBox="0 0 1200 630">
+  <defs>
+    <radialGradient id="glow" cx="78%" cy="43%" r="70%"><stop stop-color="#56462e"/><stop offset=".58" stop-color="#282b23"/><stop offset="1" stop-color="#171b18"/></radialGradient>
+  </defs>
+  <rect width="1200" height="630" fill="url(#glow)"/>
+  <g stroke="#d7b47b" stroke-opacity=".10"><path d="M0 100h1200M0 200h1200M0 300h1200M0 400h1200M0 500h1200M100 0v630M300 0v630M500 0v630M700 0v630M900 0v630M1100 0v630"/></g>
+  <circle cx="103" cy="104" r="34" fill="#d7b47b"/><text x="103" y="120" fill="#1c211e" font-size="49" font-family="Georgia,serif" font-style="italic" text-anchor="middle">m</text>
+  <text x="76" y="263" fill="#f9f3e6" font-size="74" font-family="Georgia,serif">Manoj Kumar</text>
+  <text x="76" y="344" fill="#f9f3e6" font-size="74" font-family="Georgia,serif">Sunkara.</text>
+  <text x="77" y="408" fill="#d7b47b" font-size="25" font-family="Arial,sans-serif" letter-spacing="2">AI ENGINEER  /  RESEARCHER  /  BUILDER</text>
+  <text x="77" y="540" fill="#c9c6bb" font-size="26" font-family="Arial,sans-serif">Building intelligence into real-world systems.</text>
+  <circle cx="1003" cy="312" r="180" fill="none" stroke="#d7b47b" stroke-width="1" stroke-opacity=".28"/><circle cx="1003" cy="312" r="128" fill="none" stroke="#d7b47b" stroke-width="1" stroke-opacity=".53"/><circle cx="1003" cy="312" r="65" fill="#d7b47b" fill-opacity=".08" stroke="#d7b47b" stroke-opacity=".65"/>
+</svg>
