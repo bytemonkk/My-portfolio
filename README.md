@@ -1,4 +1,4 @@
-# Manoj Sunkara — Portfolio
+# Manoj Kumar Sunkara — Portfolio
 
 A responsive, single-page AI engineer / researcher portfolio with an elegant cream-and-gold theme inspired by the supplied QuickDine visual reference. Includes a sticky header, full mobile menu, carefully styled project cards, research highlights, experience timeline, contact section, and a multi-column footer. Built with **React + Vite + Lucide icons**. It is ready to run with npm and deploy to **Vercel**. No backend, API keys, or environment variables required.
 
